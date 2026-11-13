@@ -2,6 +2,12 @@
 
 Next.js + Three.js cinematic 3D visualization of the **October 8, 2026** ADS-B Exchange KML recording of aircraft `~2B1518`.
 
+![Where can you get closest to the Blue Angels? Flight paths and photographer locations around San Francisco, using October 10, 2026 flight data.](docs/images/blue-angels-photographer-map-oct-10-2026.png)
+
+*This photographer-location map uses October 10, 2026 flight data; AFTERBURN currently replays October 8, 2026 flight data.*
+
+**Have requests or suggestions? [Leave a comment on this Reddit post](https://www.reddit.com/r/sanfrancisco/comments/1x3fn8m/).**
+
 ## Run
 
 ```bash
